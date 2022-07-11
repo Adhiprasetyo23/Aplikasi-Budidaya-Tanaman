@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426028835470",
+    "project_id": "besttree-1dba3",
+    "storage_bucket": "besttree-1dba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426028835470:android:3b465e1e5ae022c73d9fdf",
+        "android_client_info": {
+          "package_name": "com.tim2.bestree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426028835470-iol9mj0udforis9lfh4bo6d1csesit3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn0hV4nDItWnIQNyB-uQvHp1zEBG3aPxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426028835470-iol9mj0udforis9lfh4bo6d1csesit3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tim2.aplikasi_budidaya_tanaman">
+    package="com.tim2.bestree">
    <application
         android:label="aplikasi_budidaya_tanaman"
         android:name="${applicationName}"
